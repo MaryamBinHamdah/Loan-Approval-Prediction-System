@@ -104,3 +104,7 @@ This project was a successful collaboration between:
 *   **Nourah Alghfeli** ([@NourahAlghfeli](https://github.com/NourahAlghfeli ))
 *   **Maryam BinHamdah** ([@MaryamBinHamdah](https://github.com/MaryamBinHamdah ))
 
+
+## 📜 License
+
+This project is licensed under the **MIT License**. See the `LICENSE` file for details.
