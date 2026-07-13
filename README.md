@@ -104,6 +104,8 @@ This project was a successful collaboration between:
 *   **Nourah Alghfeli** ([@NourahAlghfeli](https://github.com/NourahAlghfeli ))
 *   **Maryam BinHamdah** ([@MaryamBinHamdah](https://github.com/MaryamBinHamdah ))
 
+*   My Role: Focused on advanced visualizations in Tableau (Stacked Bars, Box Plots) and was responsible for designing the final PowerPoint presentation.
+
 
 ## 📜 License
 
